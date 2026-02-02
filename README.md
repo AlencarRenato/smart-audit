@@ -23,7 +23,7 @@ Este projeto foi desenvolvido para demonstrar a aplicação de conceitos de segu
 ## Como rodar o projeto
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/smart-audit.git](https://github.com/SEU_USUARIO/smart-audit.git)
+   git clone [https://github.com/SEU_USUARIO/smart-audit.git](https://github.com/AlencarRenato/smart-audit.git)
 
 ## Autor
 
